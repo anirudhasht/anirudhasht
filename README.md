@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Anirudh Ashrit
 
-<!--
-**anirudhasht/anirudhasht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Java | Spring Boot | Microservices
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- Kafka
+- PostgreSQL
+- Docker
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- SwiftKart – Microservices E-Commerce Backend
+- AI Code Review Assistant
+- GitHub Repository Search Backend
+
+## 📊 LeetCode
+Solved 250+ problems across DSA topics.
+
+## 🔗 Connect With Me
+- LinkedIn:https://www.linkedin.com/in/anirudh-ashrit-a54a7a1b3
+- GitHub: https://github.com/anirudhasht
+- Leetcode: https://leetcode.com/u/Anirudhashrit/
